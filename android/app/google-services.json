@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188359420817",
+    "project_id": "zionapp-db7c3",
+    "storage_bucket": "zionapp-db7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188359420817:android:43939f115d7bfcdf450830",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjM_KrhiA7lrADgkELt3CVodO0g3Dpjak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
